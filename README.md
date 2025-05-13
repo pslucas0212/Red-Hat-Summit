@@ -2,6 +2,8 @@
 
 [Table of Contents - Useful Red Hat Links](https://github.com/pslucas0212/UsefulRedHatLinks)
 
+[Red Hat Summit 2025 Announcements](https://github.com/pslucas0212/Red-Hat-Summit-2025) - May 19-22 2025 in Bostin
+
 [Red Hat Summit 2024 Announcements](https://github.com/pslucas0212/Red-Hat-Summit-2024) - May 6-9, 2024 in Denver 
 
 [Red Hat Summit 2023 Announcements](https://github.com/pslucas0212/Red-Hat-Summit-2023) - May 23-25, 2023 in Boston.  Session Catalog Available
